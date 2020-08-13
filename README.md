@@ -7,4 +7,5 @@ Just re-export whatever you import, or import proxy/forwarding.
 `Baz` depends on `Bar`.
 
 https://forums.swift.org/t/what-does-exported-import-do/35869/3
+
 https://stackoverflow.com/questions/41000256/what-is-import-func-struct-class-and-exported-in-swift
